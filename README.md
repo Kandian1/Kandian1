@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com/demo/?color=1ACCFF&lines=Full+Stack+Developer;Game+Developer;Fivem+Server+Developer;Hsoting+SellS)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1ACCFF&width=435&lines=Full+Stack+Developer;Game+Developer;Fivem+Server+Developer;Hsoting+SellS)](https://git.io/typing-svg)
   
   <img src="https://komarev.com/ghpvc/?username=Kandian1&color=3ABFEF&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </div>
