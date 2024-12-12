@@ -19,9 +19,7 @@ const Kandian = {
     currentFocus: "Operating Systems", "Cloud Architecture", "Advanced System Design"
     founder: ["Kandian Community"],
 };
-    },
-    lifePhilosophy: "Learning something new every day 🚀"
-};
+
 ```
 
 ## 🛠️ Tech Arsenal
