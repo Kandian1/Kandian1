@@ -79,7 +79,7 @@ const Kandian = {
 
 <div align="center">
   
-  **💡 Open to collaborating on Educational Tech, AI Projects, and Linux Tools!**
+  
   
   ![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
 </div>
